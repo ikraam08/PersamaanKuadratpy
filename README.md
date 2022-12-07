@@ -45,3 +45,5 @@ print("Deskriminan\t:",D)
 
 ```
 
+* *Hasil output program:*
+  ![img 1](photo/Photohasil.png)
